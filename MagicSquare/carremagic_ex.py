@@ -1,5 +1,3 @@
-import numpy as np
-
 # SOME TESTS AND EXAMPLES	
 
 d_ca = {}
@@ -33,12 +31,14 @@ d_ca["ca4_no"]  = [[1,	24,	3,	25,	12],
 		[20,	11,	13,	4,	17]]
 
 d_ca["albrecht_durer"]  = [[16,	3,	2,	13], [5, 10, 11, 8],[9, 6, 7, 12], [4, 15,	14,	1]]
- 
+
+# Sagrada Familia (Barcelona)
 d_ca["josep_maria_subirachs"]  = [
 	[1	,14,	14,	4],
 	[11,	7,	6,	9],
 	[8,	10,	10,	5],
-	[13,	2,	3,	15]] 	# Sagrada Familia (Barcelona)
+	[13,	2,	3,	15]] 
+
 
 d_ca["ca_5_semi_diabolik"]  = [
 	[17,	24,	1,	8,	15],
